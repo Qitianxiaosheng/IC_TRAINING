@@ -1,2 +1,1 @@
-# IC_TRAINING
-jus
+Contrast  Limited Adaptive Histogram Equalization
