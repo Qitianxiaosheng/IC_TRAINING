@@ -4,6 +4,11 @@
 
 `define TILE_SIZ 64
 
+`define GRAY_LEVEAL 128
+
+`define HIST_BIN_WD 8
+`define DAT_PIX_WD 8
+
 `define LOG2(x)    ( ((x) <= ('d1<<'d01)) ? 'd01    \
                    : ((x) <= ('d1<<'d02)) ? 'd02    \
                    : ((x) <= ('d1<<'d03)) ? 'd03    \
